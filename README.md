@@ -25,6 +25,8 @@ git pull
 
 ## Configuration
 
+`$ mv _config.yml.example _config.yml`
+
 ``` yml
 # config
 cover: //blog.ghost.org/content/images/2013/Nov/cover.png
