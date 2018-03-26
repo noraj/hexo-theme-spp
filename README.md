@@ -1,6 +1,6 @@
 # Single Page Portfolio
 
-[Single Page Portfolio] theme, a [GhostScroll] port for [Hexi]/[Hexo].
+[Single Page Portfolio] theme, a [GhostScroll] port for [Hexo].
 Preview: [live demo](http://kywk.github.io/hexo-theme-spp)
 
 ## Installation
@@ -8,7 +8,7 @@ Preview: [live demo](http://kywk.github.io/hexo-theme-spp)
 ### Install
 
 ``` bash
-$ git clone https://github.com/kywk/hexo-theme-spp.git themes/spp
+$ git clone https://github.com/noraj/hexo-theme-spp.git themes/spp
 ```
 
 ### Enable
@@ -44,5 +44,4 @@ Free under MIT License.
 
 [Single Page Portfolio]: http://kywk.github.io/hexo-theme-spp/
 [GhostScroll]: http://ghostscroll.grmmph.com/
-[Hexi]: http://kywk.github.io/hexi/
 [Hexo]: http://hexo.io/
