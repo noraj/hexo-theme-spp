@@ -67,3 +67,5 @@ nbproject
 tmp/*
 vim/.netrwhist
 vim/view/*
+# user config
+_config.yml
