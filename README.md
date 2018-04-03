@@ -31,12 +31,9 @@ git pull
 # config
 cover: //blog.ghost.org/content/images/2013/Nov/cover.png
 logo: //blog.ghost.org/content/images/2013/Nov/bloglogo_1-1.png
-bio: 'A designer, developer and entrepreneur. Spends his time travelling the world with a bag of kites. Likes journalism and publishing platforms.'
 ```
 - **cover** - Cover for index page.
 - **logo** - Your website logo.
-- **bio** - Descript yourself.
-
 
 ## Original GhostScroll Copyright & License ##
 

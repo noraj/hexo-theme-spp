@@ -4,13 +4,13 @@
     <div class="site-head-content inner">
       <div id="site-head-content" class="inner">
 
-        <% if (theme.logo) { %> <a class="blog-logo" href="<%- config.root %>"><img src="<%- theme.logo %>" alt="Blog Logo"/></a> <% } %>
+        <% if (theme.logo) { %> <a class="blog-logo" href="<%- config.root %>"><img id="site-logo" src="<%- theme.logo %>" alt="Blog Logo"/></a> <% } %>
         <h1 class="blog-title"><%- config.title %></h1>
         <h2 class="blog-description"><%- config.subtitle %></h2>
 
         <a class='btn first'>Show me more</a>
         <a class='btn last'>Any comment</a><br>
-        <i id='header-arrow' class="fa fa-angle-down"></i>
+        <i id='header-arrow' class="fas fa-angle-down"></i>
       </div>
 
     </div>
